@@ -18,3 +18,5 @@ The model utilizes a small dataset containing the following attributes:
 1. Install dependencies: 
    ```bash
    pip install pandas scikit-learn matplotlib seaborn
+
+python model.py
