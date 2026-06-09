@@ -10,7 +10,7 @@ A data science project that combines machine learning and spreadsheet analysis t
 - **Data Visualization**: Stacked distribution charts linking age cohorts with violence occurrence.
 
 ## Dataset Attributes
-The analysis is performed on a dataset containing the following attributes:
+The analysis is performed on a public dataset sourced from **Kaggle**: [Domestic Violence Against Women Dataset](https://www.kaggle.com/datasets/fahmidachowdhury/domestic-violence-against-women). It contains the following core attributes:
 - `Age`: Age of the individual.
 - `Income` / `Employment` / `Education`: Socioeconomic status indicators.
 - `Marital Status`: Marital state (Married / Unmarried).
