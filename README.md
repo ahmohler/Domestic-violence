@@ -32,11 +32,11 @@ Ensure you have the required libraries installed:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-2. Execute the Predictive Script
+### 2. Execute the Predictive Script
 Run the machine learning pipeline (Random Forest Classifier) using the following command:
 python3 model.py
 
-3. Model Performance Evaluation
+### 3. Model Performance Evaluation
 The Random Forest model yields an overall accuracy of 71% upon evaluation against the unseen test partition:
 
            0       0.80      0.83      0.81        53
